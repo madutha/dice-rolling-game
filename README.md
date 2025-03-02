@@ -1,1 +1,1 @@
-# dice-rolling-game
+# dice-roller
